@@ -1,0 +1,16 @@
+.pricing-translator .elementor-shortcode {
+    font-color: #194542;
+    font-family: "Pathway Gothic One", Sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+.from-text {
+    background-color: #e5f2f0;
+    padding: 2px 6px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #578481;
+}
+/* .product-column .price bdi {
+    display: none;
+} */
